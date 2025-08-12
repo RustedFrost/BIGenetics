@@ -847,7 +847,7 @@ st.markdown("""
 <div style='text-align: center; padding: 2rem; background: linear-gradient(45deg, #f8f9fa 0%, #e9ecef 100%); border-radius: 10px; margin-top: 2rem;'>
     <h4 style='color: #6c757d; margin-bottom: 1rem;'>🧬 SAM Recovery Intelligence Engine v4.0</h4>
     <p style='color: #6c757d; margin: 0;'>
-        Powered by Excel Template | Integrating Genetics × Biometrics × AI for Precision Recovery
+        Integrating Genetics × Biometrics × AI for Precision Recovery
     </p>
     <p style='color: #6c757d; margin: 0.5rem 0 0 0; font-size: 0.9rem;'>
         🔬 Evidence-based algorithms • 🧬 Personalized insights • 📊 Real-time monitoring
